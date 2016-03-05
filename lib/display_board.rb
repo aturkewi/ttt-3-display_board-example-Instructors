@@ -7,3 +7,4 @@ def display_board
   puts "   |   |   "
 end
 # add note
+# add another note
